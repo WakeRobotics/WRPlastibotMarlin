@@ -285,7 +285,7 @@
 #define FAN_PIN            4 // IO pin. Buffer needed
 #endif
 #define PS_ON_PIN          12
-#define KILL_PIN           -1
+#define KILL_PIN           41
 
 #define HEATER_0_PIN       10   // EXTRUDER 1
 #if MOTHERBOARD == 33
@@ -304,7 +304,7 @@
 
   #ifdef NEWPANEL
   //arduino pin which triggers an piezzo beeper
-    #define BEEPER 33			// Beeper on AUX-4
+    #define BEEPER 37			// Beeper on AUX-4
 
     #define LCD_PINS_RS 16 
     #define LCD_PINS_ENABLE 17
@@ -314,15 +314,15 @@
     #define LCD_PINS_D7 29
     
     //buttons are directly attached using AUX-2
-    #define BTN_EN1 37
-    #define BTN_EN2 35
-    #define BTN_ENC 31  //the click
+    #define BTN_EN1 31
+    #define BTN_EN2 33
+    #define BTN_ENC 35  //the click
     
     #define BLEN_C 2
     #define BLEN_B 1
     #define BLEN_A 0
     
-    #define SDCARDDETECT -1		// Ramps does not use this port
+    #define SDCARDDETECT 49		// Ramps does not use this port
     
       //encoder rotation values
     #define encrot0 0
