@@ -1,3 +1,6 @@
+*This is the firmware for the Wake Robotics Plastibot printers with LCD
+  controllers*
+
 WARNING: 
 --------
 THIS IS RELEASE CANDIDATE 2 FOR MARLIN 1.0.0
