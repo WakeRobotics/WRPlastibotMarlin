@@ -1,5 +1,5 @@
-*This is the firmware for the Wake Robotics Plastibot printers with LCD
-  controllers*
+*This is the firmware for the Wake Robotics Plastibot printer #4 (Orange) with
+LCD controller*
 
 WARNING: 
 --------
