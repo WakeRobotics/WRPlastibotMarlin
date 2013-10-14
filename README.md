@@ -1,4 +1,4 @@
-*This is the firmware for the Wake Robotics Plastibot printers without LCD
+*This is the firmware for the Wake Robotics Plastibot printers with LCD
 controllers*
 
 ==========================
